@@ -9,7 +9,7 @@ Curious how much disk space your node_modules occupy? Node-stats to the rescue!
 - cli should have a usage description (--help)
 - you should use your calculator module
   - remember you can install node modules by there git-url as well
-  - you can install a github dependency like this `npm i git://github.com/user/project.git`
+  - you can install a github dependency like this `npm i --save git://github.com/user/project.git`
 
 **Example Output:**
 
